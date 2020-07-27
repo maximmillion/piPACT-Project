@@ -1,2 +1,8 @@
 # piPACT-Project
-piPACT Project. Neural Network to predict RSSI values.
+piPACT Independent Project. 
+
+Neural Network to predict RSSI values.
+
+By: Maxim Chowdhury
+
+
